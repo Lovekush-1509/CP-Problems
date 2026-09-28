@@ -6,13 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
+- [sortings](#sortings) (1)
 
 ---
 
@@ -21,6 +23,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ---
 
