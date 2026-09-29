@@ -6,32 +6,74 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 21 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (1)
-- [number theory](#number-theory) (2)
-- [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [binary search](#binary-search) (2)
+- [brute force](#brute-force) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [data structures](#data-structures) (1)
+- [games](#games) (1)
+- [greedy](#greedy) (11)
+- [implementation](#implementation) (6)
+- [math](#math) (7)
+- [number theory](#number-theory) (6)
+- [sortings](#sortings) (4)
+- [strings](#strings) (3)
+- [two pointers](#two-pointers) (1)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+| 2025A | [Two Screens](https://codeforces.com/contest/2025/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2025/A%20-%20Two%20Screens/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
+| 2013A | [Zhan's Blender](https://codeforces.com/contest/2013/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2013/A%20-%20Zhan's%20Blender/solution.cpp) |
+| 2022A | [Bus to Pénjamo](https://codeforces.com/contest/2022/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2022/A%20-%20Bus%20to%20P%C3%A9njamo/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 946A | [Partition](https://codeforces.com/contest/946/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/946/A%20-%20Partition/solution.cpp) |
 | 1397A | [Juggling Letters](https://codeforces.com/contest/1397/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1397/A%20-%20Juggling%20Letters/solution.cpp) |
+| 1399B | [Gifts Fixing](https://codeforces.com/contest/1399/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1399/B%20-%20Gifts%20Fixing/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2014A | [Robin Helps](https://codeforces.com/contest/2014/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2014/A%20-%20Robin%20Helps/solution.cpp) |
+| 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
+| 2022A | [Bus to Pénjamo](https://codeforces.com/contest/2022/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2022/A%20-%20Bus%20to%20P%C3%A9njamo/solution.cpp) |
+| 2025A | [Two Screens](https://codeforces.com/contest/2025/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2025/A%20-%20Two%20Screens/solution.cpp) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 
@@ -39,19 +81,43 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+| 2014A | [Robin Helps](https://codeforces.com/contest/2014/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2014/A%20-%20Robin%20Helps/solution.cpp) |
+| 2022A | [Bus to Pénjamo](https://codeforces.com/contest/2022/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2022/A%20-%20Bus%20to%20P%C3%A9njamo/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+| 1165D | [Almost All Divisors](https://codeforces.com/contest/1165/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1165/D%20-%20Almost%20All%20Divisors/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 2013A | [Zhan's Blender](https://codeforces.com/contest/2013/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2013/A%20-%20Zhan's%20Blender/solution.cpp) |
+| 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
+| 2022A | [Bus to Pénjamo](https://codeforces.com/contest/2022/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2022/A%20-%20Bus%20to%20P%C3%A9njamo/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/26/A%20-%20Almost%20Prime/solution.cpp) |
+| 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
+| 1165D | [Almost All Divisors](https://codeforces.com/contest/1165/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1165/D%20-%20Almost%20All%20Divisors/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### strings
@@ -59,6 +125,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1397A | [Juggling Letters](https://codeforces.com/contest/1397/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1397/A%20-%20Juggling%20Letters/solution.cpp) |
+| 2025A | [Two Screens](https://codeforces.com/contest/2025/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2025/A%20-%20Two%20Screens/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2025A | [Two Screens](https://codeforces.com/contest/2025/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2025/A%20-%20Two%20Screens/solution.cpp) |
 
 ---
 
