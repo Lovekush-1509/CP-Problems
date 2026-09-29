@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 6 |
+| 6 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (1)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1397A | [Juggling Letters](https://codeforces.com/contest/1397/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/1397/A%20-%20Juggling%20Letters/solution.cpp) |
+| 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Lovekush-1509/CP-Problems/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 
 ### implementation
