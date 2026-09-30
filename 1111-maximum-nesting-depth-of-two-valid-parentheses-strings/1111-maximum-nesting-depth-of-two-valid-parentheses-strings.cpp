@@ -26,19 +26,23 @@ class Solution {
 
 public:
     vector<int> maxDepthAfterSplit(string seq) {
-        stack<char>a,b;
+        int a = 0,b = 0;
         vector<int>res(seq.size(),0);
         for(int i = 0; i < seq.size(); i++){
             if(seq[i] == '('){
-                if(a.size() > b.size()){
-                    b.push(seq[i]);
+                if(a > b){
                     res[i] = 1;
-                }else a.push(seq[i]);
+                    b++;
+                }else {
+                    a++;
+                }
             }else{
-                if(a.size() <= b.size()){
-                    b.pop();
+                if(a <= b){
                     res[i] = 1;
-                }else a.pop();
+                    b--;
+                }else {
+                    a--;
+                }
             }
         }
 
