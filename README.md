@@ -192,4 +192,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lovekush-1509/CP-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Lovekush-1509/CP-Problems/tree/main/0146-lru-cache/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Lovekush-1509/CP-Problems/tree/main/0146-lru-cache/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Lovekush-1509/CP-Problems/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Lovekush-1509/CP-Problems/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
