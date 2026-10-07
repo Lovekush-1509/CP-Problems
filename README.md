@@ -213,6 +213,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Lovekush-1509/CP-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0146-lru-cache](https://github.com/Lovekush-1509/CP-Problems/tree/main/0146-lru-cache/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -236,4 +237,12 @@
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Lovekush-1509/CP-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lovekush-1509/CP-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Lovekush-1509/CP-Problems/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Lovekush-1509/CP-Problems/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
