@@ -213,6 +213,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Lovekush-1509/CP-Problems/tree/main/0001-two-sum/) | Easy |
 | [0146-lru-cache](https://github.com/Lovekush-1509/CP-Problems/tree/main/0146-lru-cache/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Lovekush-1509/CP-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lovekush-1509/CP-Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -263,6 +264,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Lovekush-1509/CP-Problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lovekush-1509/CP-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lovekush-1509/CP-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
