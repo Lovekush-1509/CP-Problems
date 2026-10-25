@@ -268,6 +268,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Lovekush-1509/CP-Problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lovekush-1509/CP-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Lovekush-1509/CP-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lovekush-1509/CP-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Lovekush-1509/CP-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -326,6 +327,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Lovekush-1509/CP-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -347,4 +349,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Lovekush-1509/CP-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Lovekush-1509/CP-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Lovekush-1509/CP-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
