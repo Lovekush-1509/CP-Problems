@@ -223,6 +223,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Lovekush-1509/CP-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0061-rotate-list](https://github.com/Lovekush-1509/CP-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/Lovekush-1509/CP-Problems/tree/main/0146-lru-cache/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -370,4 +371,8 @@
 | [1254-number-of-closed-islands](https://github.com/Lovekush-1509/CP-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lovekush-1509/CP-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lovekush-1509/CP-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Lovekush-1509/CP-Problems/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
