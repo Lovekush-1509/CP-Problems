@@ -259,6 +259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Lovekush-1509/CP-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Lovekush-1509/CP-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Lovekush-1509/CP-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Lovekush-1509/CP-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -273,6 +274,7 @@
 | [0001-two-sum](https://github.com/Lovekush-1509/CP-Problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lovekush-1509/CP-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Lovekush-1509/CP-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Lovekush-1509/CP-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Lovekush-1509/CP-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lovekush-1509/CP-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
