@@ -260,6 +260,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Lovekush-1509/CP-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Lovekush-1509/CP-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lovekush-1509/CP-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Lovekush-1509/CP-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Lovekush-1509/CP-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -275,6 +276,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Lovekush-1509/CP-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Lovekush-1509/CP-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Lovekush-1509/CP-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lovekush-1509/CP-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Lovekush-1509/CP-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lovekush-1509/CP-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -302,6 +304,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lovekush-1509/CP-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lovekush-1509/CP-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Lovekush-1509/CP-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lovekush-1509/CP-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
