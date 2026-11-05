@@ -278,6 +278,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Lovekush-1509/CP-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lovekush-1509/CP-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Lovekush-1509/CP-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Lovekush-1509/CP-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lovekush-1509/CP-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Lovekush-1509/CP-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -294,6 +295,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lovekush-1509/CP-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Lovekush-1509/CP-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lovekush-1509/CP-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Lovekush-1509/CP-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Divide and Conquer
@@ -305,6 +307,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lovekush-1509/CP-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Lovekush-1509/CP-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lovekush-1509/CP-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Lovekush-1509/CP-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lovekush-1509/CP-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -384,6 +387,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Lovekush-1509/CP-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Lovekush-1509/CP-Problems/tree/main/0061-rotate-list/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Lovekush-1509/CP-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
