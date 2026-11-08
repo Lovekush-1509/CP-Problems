@@ -186,6 +186,7 @@
 | [0012-integer-to-roman](https://github.com/Lovekush-1509/CP-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Lovekush-1509/CP-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Lovekush-1509/CP-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0058-length-of-last-word](https://github.com/Lovekush-1509/CP-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Lovekush-1509/CP-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Lovekush-1509/CP-Problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lovekush-1509/CP-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
