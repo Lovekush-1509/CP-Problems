@@ -244,6 +244,7 @@
 | [0042-trapping-rain-water](https://github.com/Lovekush-1509/CP-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Lovekush-1509/CP-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/Lovekush-1509/CP-Problems/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lovekush-1509/CP-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -292,6 +293,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lovekush-1509/CP-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lovekush-1509/CP-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Lovekush-1509/CP-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Lovekush-1509/CP-Problems/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Lovekush-1509/CP-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lovekush-1509/CP-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Lovekush-1509/CP-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
