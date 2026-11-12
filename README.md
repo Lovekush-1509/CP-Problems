@@ -290,6 +290,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Lovekush-1509/CP-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Lovekush-1509/CP-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lovekush-1509/CP-Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Lovekush-1509/CP-Problems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Lovekush-1509/CP-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lovekush-1509/CP-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Lovekush-1509/CP-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
