@@ -183,6 +183,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Lovekush-1509/CP-Problems/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/Lovekush-1509/CP-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Lovekush-1509/CP-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Lovekush-1509/CP-Problems/tree/main/0022-generate-parentheses/) | Medium |
