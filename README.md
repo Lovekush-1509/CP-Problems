@@ -269,6 +269,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lovekush-1509/CP-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lovekush-1509/CP-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Lovekush-1509/CP-Problems/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/Lovekush-1509/CP-Problems/tree/main/3360-stone-removal-game/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Lovekush-1509/CP-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Lovekush-1509/CP-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
@@ -409,4 +410,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Lovekush-1509/CP-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/Lovekush-1509/CP-Problems/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
